@@ -1,0 +1,78 @@
+.head {
+    background-color: green;
+    margin: 10px;
+    padding: 25px;
+    border: solid black 4px;
+}
+
+.head_photo {
+    width: 10%;
+    height: 20%;
+}
+
+.photos_index {
+    display: flex;
+    flex-direction: column;
+    width: 22%;
+    height: 10%;
+}
+
+.osnova {
+    display: flex;
+    justify-content: flex-start;
+}
+
+p {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+}
+
+h1 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+a {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+li {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.nazvanie {
+    font-size: 30px;
+}
+
+.f1 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.f2 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.pizza {
+    margin-top: 40px;
+    border: solid black 4px;
+    padding: 30px;
+}
+
+.recipes {
+    display: flex;
+    justify-content: space-around;
+}
+
+.later {
+    text-align: center;
+}
